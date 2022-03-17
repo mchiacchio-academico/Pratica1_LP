@@ -61,6 +61,7 @@ public class Questao4 {
 					break;
 					default:
 					System.out.println("Opção inexistente.");
+					break;
 				}
 		}
 	}
